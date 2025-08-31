@@ -16,6 +16,7 @@ html {
         linear-gradient(215.79deg, rgba(0, 0, 0, 0.31) 29.66%, rgba(0, 0, 0, 0.29) 84.2%),
         url('imgs/diego-gutierrez-NRn5rrBnH8w-unsplash 1.png');
     background-repeat: no-repeat;
+    background-size: cover;
 
     &_top {
         padding-top: 28px;
@@ -370,6 +371,7 @@ html {
 .hills {
     background-image: url(imgs/groupsel.png);
     background-repeat: no-repeat;
+    background-size: cover;
 
     &_container {
         max-width: 614px;
@@ -521,6 +523,7 @@ html {
     background-image: url(imgs/bghmn.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 
     &_bott {
         background-color: rgba(2, 12, 33, 0.9);
@@ -773,6 +776,7 @@ html {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        margin: 0 auto;
 
         &_it {
             max-width: 653px;
